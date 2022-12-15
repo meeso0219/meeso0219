@@ -3,7 +3,10 @@
 - 🌱 I’m currently learning websites and app development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=&fontSize=90)
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20render&fontSize=90)
+
+
 <img src="https://img.shields.io/badge/C++-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 
 <!---
